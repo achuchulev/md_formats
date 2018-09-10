@@ -46,3 +46,7 @@ In this example I use a combination of **bold** and _italic_ *visual* __styles__
 >  you should try to make it easy for people to understand it.
 
 
+### Putting some code inline
+
+This is a commomn usage of _ls_ commannd `ls -la`
+
