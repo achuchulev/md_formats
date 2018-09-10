@@ -74,3 +74,19 @@ read var2
 # Exports URLs of all available providers for the box
 curl -sL  https://app.vagrantup.com/api/v1/box/$var1/$var2 | jq '.current_version.providers[].download_url'
 ```
+
+
+### Tasks
+
+- [x] this is a complete item
+- [ ] this one is still not complete
+
+
+### Automatic links
+
+This is ~~~not~~~ a link to my repos https://github.com/achuchulev?tab=repositories
+
+
+### Emoji
+
+@achuchulev This repo looks good :+1: 
