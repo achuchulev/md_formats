@@ -22,8 +22,8 @@ Here is an example of link usage [GitHub repo](http://github.com/achuchulev/md_f
 #### Ordered
 
 1. Terraform
-  1. Enterprise
-  1. Free
+   1. Enterprise
+   1. Free
 1. Vagrant
-  1. Enterprise
-  1. Free
+   1. Enterprise
+   1. Free
