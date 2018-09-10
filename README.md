@@ -53,8 +53,24 @@ This is a common usage of _ls_ command `ls -la`
 
 ### Table example
 
-Team | Points
------|-------
-MU | 6
-Ars| 7
-Liv| 9
+Team |Points|Played
+-----|------|-------
+MU | 6 | 3
+Ars| 7 | 3
+Liv| 9 | 3
+
+
+### Script blocks
+
+```
+#!/usr/bin/env bash
+
+# Define organisation and box
+echo "Specify user:"
+read var1
+echo "Specify box:"
+read var2
+
+# Exports URLs of all available providers for the box
+curl -sL  https://app.vagrantup.com/api/v1/box/$var1/$var2 | jq '.current_version.providers[].download_url'
+```
