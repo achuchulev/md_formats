@@ -1,6 +1,6 @@
 # This is a sample repo showing different markdown formats
 
-## This is h2 header example
+## Examples
 
 ### Editing styles example
 
@@ -36,3 +36,11 @@ In this example I use a combination of **bold** and _italic_ *visual* __styles__
 ### Adding images
 
 ![Build Status](https://travis-ci.org/achuchulev/HelloUser.svg?branch=master)
+
+
+### Text Block
+
+> 	Getting something done well at the beginning 
+>  is always less expensive than trying to fix it later!
+
+
