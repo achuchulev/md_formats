@@ -48,5 +48,13 @@ In this example I use a combination of **bold** and _italic_ *visual* __styles__
 
 ### Putting some code inline
 
-This is a commomn usage of _ls_ commannd `ls -la`
+This is a common usage of _ls_ command `ls -la`
 
+
+### Table example
+
+Team | Points
+-----|-------
+MU | 6
+Ars| 7
+Liv| 9
