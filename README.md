@@ -41,6 +41,8 @@ In this example I use a combination of **bold** and _italic_ *visual* __styles__
 ### Text Block
 
 > 	Getting something done well at the beginning 
->  is always less expensive than trying to fix it later!
+>  is always less expensive than trying to fix it later.
+>  When you are writing some code 
+>  you should try to make it easy for people to understand it.
 
 
