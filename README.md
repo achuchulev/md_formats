@@ -2,9 +2,10 @@
 
 ## This is h2 header example
 
-### This is a h3 header example
+### Editing styles example
 
 In this example I use a combination of **bold** and _italic_ *visual* __styles__
+
 
 ### Lists
 
@@ -27,6 +28,11 @@ In this example I use a combination of **bold** and _italic_ *visual* __styles__
    1. Free
    
    
-Here is an example of link usage [Link to GitHub md_formats repo](http://github.com/achuchulev/md_formats)
+### Links usage example
 
-#### Adding images like this one ![Build Status](https://travis-ci.org/achuchulev/HelloUser.svg?branch=master)
+[Link to GitHub md_formats repo](http://github.com/achuchulev/md_formats)
+
+
+### Adding images
+
+![Build Status](https://travis-ci.org/achuchulev/HelloUser.svg?branch=master)
